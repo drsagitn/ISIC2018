@@ -2,6 +2,7 @@
 
 https://challenge2018.isic-archive.com/
 
+clone from https://github.com/yuanqing811/ISIC2018
 
 ## Summary
 
